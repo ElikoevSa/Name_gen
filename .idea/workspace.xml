@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b890f46-33ee-475d-93d5-214701611b47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NameGenerator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NameGenerator/config/HibernateUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NameGenerator/data/Affix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NameGenerator/data/Prefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NameGenerator/data/Suffix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NameGenerator/data/repository/DataRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NameGenerator/data/repositoryImpl/DataRepositoryIMPL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NameGenerator/data/repositoryImpl/ValidNameChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.properties" afterDir="false" />
-    </list>
+    <list default="true" id="5b890f46-33ee-475d-93d5-214701611b47" name="Changes" comment="created" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,19 +32,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "E:/Name generator/src/main/java/NameGenerator/Main.java",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/Name generator/src/main/java/NameGenerator/Main.java&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Name generator" />
@@ -86,9 +69,20 @@
       <option name="presentableId" value="Default" />
       <updated>1725954644184</updated>
     </task>
+    <task id="LOCAL-00001" summary="created">
+      <option name="closed" value="true" />
+      <created>1726650298388</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726650298388</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="created" />
+    <option name="LAST_COMMIT_MESSAGE" value="created" />
   </component>
 </project>
